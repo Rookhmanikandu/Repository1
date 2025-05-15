@@ -1,4 +1,4 @@
 # Repository1
-Author-Rookhmani kandu
+Author-Rookhmani (kandu)
 <br>
 It is created by Rookhmani kandu
